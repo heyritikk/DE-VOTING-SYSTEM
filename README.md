@@ -13,4 +13,13 @@ This is a decentralized voting application built with React, TypeScript, and Eth
 - MetaMask or another Ethereum wallet.
 - Node.js installed.
 
+##Install dependencies:
+
+Navigate to the project directory and install the required dependencies:
+
+bash
+Copy code
+cd YOUR_REPOSITORY_NAME
+npm install
+
 
