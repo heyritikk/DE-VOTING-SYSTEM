@@ -13,7 +13,7 @@ This is a decentralized voting application built with React, TypeScript, and Eth
 - MetaMask or another Ethereum wallet.
 - Node.js installed.
 
-##Install dependencies:
+## Install dependencies:
 
 Navigate to the project directory and install the required dependencies:
 
@@ -22,12 +22,12 @@ npm install
 
 Install Dependencies
 
-##Run the following command to install the required dependencies:
+## Run the following command to install the required dependencies:
 
 npm install
 
 
-##Smart Contract Deployment
+## Smart Contract Deployment
 
 The app interacts with an Ethereum smart contract. To deploy the contract, you can use either Truffle or Hardhat.
 
