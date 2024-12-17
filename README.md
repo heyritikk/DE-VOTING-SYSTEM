@@ -44,6 +44,6 @@ Run the following command to start the development server:
 
 
 npm start
-This will start the app, and you can access it in your browser at http://localhost:3000.
+This will start the app, and you can access it in your browser at http://localhost:3000
 
 
